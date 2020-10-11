@@ -1,0 +1,15 @@
+{
+  "common": {
+    "name": "Name",
+    "region": "Region",
+    "numberOfFreePlaces": "Number of free places",
+    "placesInTotal": "Number of places in total",
+    "actualized": "Actualized",
+    "parkingLots": "Parking lots",
+    "parkingLot": "Parking lot",
+    "paymentLink": "Payment link",
+    "iconsMadeBy": "Icons made by",
+    "addApiKey": "Insert API key",
+    "from": "from"
+  }
+}

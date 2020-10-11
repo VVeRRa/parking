@@ -1,0 +1,15 @@
+{
+  "common": {
+    "name": "Název",
+    "region": "Region",
+    "numberOfFreePlaces": "Počet volných míst",
+    "actualized": "Aktualizováno",
+    "parkingLots": "Parkovací místa",
+    "parkingLot": "Parkovací místo",
+    "placesInTotal": "Celkový počet míst",
+    "iconsMadeBy": "Ikony vytvořil",
+    "paymentLink": "Odkaz na platbu",
+    "addApiKey": "Zadejte API klíč",
+    "from": "z"
+  }
+}
